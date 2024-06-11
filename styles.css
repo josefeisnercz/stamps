@@ -4,7 +4,7 @@ body {
 }
 
 .sidebar {
-    width: 200px;
+    width: 300px;
     padding: 20px;
     background-color: #f4f4f4;
     height: 100vh;
@@ -18,8 +18,8 @@ body {
 }
 
 #image-container img {
-    width: 100px;
-    height: 100px;
+    width: 400px;
+    height: 400px;
     margin: 5px;
     cursor: pointer;
     transition: transform 0.2s;
@@ -45,8 +45,8 @@ body {
 .modal-content {
     margin: auto;
     display: block;
-    width: 80%;
-    max-width: 700px;
+    width: 100%;
+    max-width: 1920px;
 }
 
 .close {
